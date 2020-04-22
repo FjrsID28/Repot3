@@ -31,18 +31,13 @@ prBlack=("\033[98m")
 class banner:
     def __init__(self):
         print red+"""
-
 ---------------------------------+
 ---T-O-O-L-S---W-O-R-D-L-I-S-T---|
 ---------------------------------+"""+red+blue+"""                 
-  # Wordlist Creating 2019       |
-  # Create By Elang X-CoderID    |  
-  # YouTube : Pangeran Alvins    |
-  # WhatsApp : +62822475712**    |
-  # Facebook: Alvins             |
+  # Wordlist Creating 2020       |
+  # Create By Fajarin ID         |  
+  # YouTube : Fajarin            |
+  # WhatsApp : +6289696755263**  |
+  # Facebook: Fajarin            |
 ---------------------------------+"""
 print (blue+'-')*43
-        
-        
-        
-       
