@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-#//////Coded By : Pangeran Alvins
+#//////Coded By : Fajarin
 
 import sys,time,os
 import mechanize
