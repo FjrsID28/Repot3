@@ -1,6 +1,7 @@
+  
 #!/usr/bin/python
 # coding=utf-8
-#////Coded By : Pangeran Alvins
+#////Coded By : Fajarin
 import os,sys,time,requests
 import sys,time,os
 import os
